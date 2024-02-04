@@ -1,0 +1,56 @@
+/* Nick Brink */
+/* CS 341 HW #2 */
+
+body {
+  background-color:powderblue;
+}
+
+h1   {
+  color:black;
+  background-color:white;
+  font-family:"Copperplate Gothic";
+}
+
+img {
+  border-style:double;
+  border-width:25px;
+  background-color:blue;
+}
+
+/* Code for dropdown month menu */
+/* From w3schools.com */
+.dropbtn {
+  font-size:24px;
+  font-family:"Times New Roman";
+  border:line;
+}
+
+.dropdown {
+  position:absolute;
+  display:inline-block;
+  margin-top:-20px;
+}
+
+.dropdown-content {
+  display:none;
+  overflow:auto;
+  position:relative;
+  background-color:#f1f1f1;
+  min-width:125px;
+  z-index:1;
+}
+
+.dropdown-content a {
+  padding:12px;
+  display:block;
+}
+
+.dropdown-content a:hover {background-color:#ddd;}
+
+.dropdown-content a:active {background-color:#b1b1b1;}
+
+.dropdown:hover .dropdown-content {display:block;}
+
+.dropdown:hover .dropdown-content {height:200px;}
+
+.dropdown:hover .dropbtn {background-color:#ddd;}
