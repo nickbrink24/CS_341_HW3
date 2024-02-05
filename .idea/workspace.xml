@@ -8,11 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Finished HW #3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Finished HW #3 hopefully" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707097177155</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished HW #3 hopefully">
+      <created>1707098964445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707098964445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,6 +97,7 @@
     <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Changes through spec part 7" />
     <MESSAGE value="Finished HW #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished HW #3" />
+    <MESSAGE value="Finished HW #3 hopefully" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished HW #3 hopefully" />
   </component>
 </project>
