@@ -1,3 +1,5 @@
+// Nick Brink
+// CS 341 HW #3
 var fs = require('fs');
 
 test('test selectEvent', () => {

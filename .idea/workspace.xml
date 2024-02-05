@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Finished HW #3 hopefully" />
+    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Updated jsdom environment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707098964445</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated jsdom environment">
+      <created>1707103244214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707103244214</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +105,7 @@
     <MESSAGE value="Changes through spec part 7" />
     <MESSAGE value="Finished HW #3" />
     <MESSAGE value="Finished HW #3 hopefully" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished HW #3 hopefully" />
+    <MESSAGE value="Updated jsdom environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated jsdom environment" />
   </component>
 </project>
