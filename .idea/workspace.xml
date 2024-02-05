@@ -8,13 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/hw3/public/javascripts/sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/tests/DOM.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/tests/sum.test.js" afterDir="false" />
+    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Changes through spec part 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707015339034</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes through spec part 7">
+      <created>1707091811754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707091811754</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Sanity Check" />
     <MESSAGE value="Update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
+    <MESSAGE value="Changes through spec part 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes through spec part 7" />
   </component>
 </project>
