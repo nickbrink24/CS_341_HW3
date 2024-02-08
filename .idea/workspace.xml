@@ -8,7 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Updated jsdom environment" />
+    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Added name in file headers">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707103244214</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added name in file headers">
+      <created>1707103626252</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707103626252</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +115,7 @@
     <MESSAGE value="Finished HW #3" />
     <MESSAGE value="Finished HW #3 hopefully" />
     <MESSAGE value="Updated jsdom environment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated jsdom environment" />
+    <MESSAGE value="Added name in file headers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added name in file headers" />
   </component>
 </project>
