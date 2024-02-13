@@ -18,9 +18,9 @@ data =
 ];
 
 
-/* GET users listing. */
-router.get('/', function(req, res, next) {
-  res.json(data);
+/* POST users listing. */
+router.post('/', function(req, res, next) {
+    res.json(data);
 });
 
 module.exports = router;
