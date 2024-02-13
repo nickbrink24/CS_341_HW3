@@ -9,7 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Added name in file headers">
+      <change afterPath="$PROJECT_DIR$/hw3/routes/orders.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
