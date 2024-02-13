@@ -3,6 +3,7 @@
 function changeMonth(parameter) {
     document.getElementById("monthValue").innerHTML = parameter;
 
+    // Homework 4 Modifications
     // issue a POST to get orders for a particular month
     $.post("http://localhost:3000/orders", {month: parameter},
     function(data, status) {

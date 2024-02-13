@@ -1,5 +1,5 @@
 // Nick Brink
-// CS 341 HW #3
+// CS 341 HW #3 and 4
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
