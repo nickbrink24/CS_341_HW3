@@ -8,10 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="HW4 Spec #1">
+    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="HW4 Spec #2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/public/javascripts/changeMonth.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/public/javascripts/changeMonth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw3/routes/orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/routes/orders.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707790641959</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HW4 Spec #2">
+      <created>1707797703764</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707797703764</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +132,7 @@
     <MESSAGE value="Updated jsdom environment" />
     <MESSAGE value="Added name in file headers" />
     <MESSAGE value="HW4 Spec #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4 Spec #1" />
+    <MESSAGE value="HW4 Spec #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW4 Spec #2" />
   </component>
 </project>

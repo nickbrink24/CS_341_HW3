@@ -23,4 +23,9 @@ router.post('/', function(req, res, next) {
     res.json(data);
 });
 
+/* GET users listing. */
+router.get('/', function(req, res, next) {
+    res.json(data);
+});
+
 module.exports = router;
