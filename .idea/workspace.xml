@@ -8,11 +8,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Making both specs work at the same time" />
+    <list default="true" id="51f2efbe-c40d-49f3-b811-18709b95c68d" name="Changes" comment="Comment headers">
+      <change afterPath="$PROJECT_DIR$/hw3/routes/dbms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/routes/newOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/public/javascripts/saveOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/public/javascripts/saveOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/routes/orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/routes/orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,14 +46,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nickb\Desktop\School\University of Portland\Spring 2024\Software Engineering\Github-Desktop\CS_341_HW3\hw3\routes" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -123,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707855223857</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Comment headers">
+      <created>1707855438116</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707855438116</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +168,7 @@
     <MESSAGE value="HW4 Spec #1" />
     <MESSAGE value="HW4 Spec #2" />
     <MESSAGE value="Making both specs work at the same time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Making both specs work at the same time" />
+    <MESSAGE value="Comment headers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comment headers" />
   </component>
 </project>
